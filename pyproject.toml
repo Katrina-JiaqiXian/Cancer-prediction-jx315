@@ -5,7 +5,7 @@ description = "A package to detect cancer"
 authors = ["J. Xian <122625488+Katrina-JiaqiXian@users.noreply.github.com>"]
 license = "GPL-3.0-or-later"
 readme = "README.md"
-packages = [{include = "cancer_prediction}]
+packages = [{include = "cancer_prediction"}]
 
 [tool.poetry.scripts]
 cancer-prediction = "cancer_prediction.cli:app"
