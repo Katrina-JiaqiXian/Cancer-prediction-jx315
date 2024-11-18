@@ -3,3 +3,5 @@
 .pytype/
 
 cython_debug/
+
+venv/
